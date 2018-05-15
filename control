@@ -1,0 +1,11 @@
+Package: me.qusic.shadowsocks
+Name: shadowsocks-libev
+Version: 1.0.0
+Description: Lightweight secure SOCKS5 proxy
+Section: Networking
+Priority: optional
+Architecture: iphoneos-arm
+Author: Qusic <qusicx@gmail.com>
+Maintainer: Qusic <qusicx@gmail.com>
+Sponsor: Qusic <qusicx@gmail.com>
+Tag: purpose::console, role::hacker
